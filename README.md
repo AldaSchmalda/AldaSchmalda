@@ -1,6 +1,6 @@
 ### 👋 Über Mich
 
-Hallo! Mein Name ist [Dein Name]. Ich interessiere mich leidenschaftlich für Softwareentwicklung, mit einem besonderen Fokus auf Webentwicklung. Mein Ziel ist es, digitale Lösungen zu entwickeln, die benutzerfreundlich und effizient sind. Ich liebe es, ständig Neues zu lernen und meine Fähigkeiten in der Programmierung und Entwicklung von Webseiten zu verbessern.
+Hallo! Mein Name ist Alina. Ich interessiere mich leidenschaftlich für Softwareentwicklung, mit einem besonderen Fokus auf Webentwicklung. Mein Ziel ist es, digitale Lösungen zu entwickeln, die benutzerfreundlich und effizient sind. Ich liebe es, ständig Neues zu lernen und meine Fähigkeiten in der Programmierung und Entwicklung von Webseiten zu verbessern.
 
 ### 💻 Was ich mache
 
